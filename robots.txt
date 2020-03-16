@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://wisdom08.netlify.com/sitemap.xml
+Host: https://wisdom08.netlify.com
