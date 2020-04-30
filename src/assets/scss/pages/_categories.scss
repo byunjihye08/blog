@@ -1,0 +1,17 @@
+/** 
+ * Categories
+ */
+
+.categories {
+    &__list {
+        &-item {
+            &-link {
+                color: $color-base;
+                &:hover,
+                &:focus {
+                  color: black;
+              }
+            }
+        }
+    }
+}
